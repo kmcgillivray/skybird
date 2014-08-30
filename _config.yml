@@ -1,0 +1,6 @@
+# Site settings
+title: Skybird Watercolor
+
+# Build settings
+markdown: kramdown
+permalink: pretty
