@@ -12,12 +12,12 @@ layout: default
 
 Fall 2014 classes start September 15th and end December 20th (10 weeks).
 
-Mondays  
-Morning class: 9:00—11:30  
+### Mondays  
+Morning class: 9:00—11:30 (**This class is full**)  
 Afternoon class: 12:30—3:00  
 [Allouez Community Center](https://goo.gl/maps/7ic6k)
 
-Thursdays  
+### Thursdays  
 Morning class: 9:00—11:30  
 Afternoon class: 12:30—3:00  
 [Incarnation Lutheran Church](https://goo.gl/maps/5SBQv)
@@ -34,4 +34,4 @@ A short biography and history of the studio.
 
 ## Register and contact
 
-If you have any questions or would like to register for a course, please send me an email.
+If you have any questions or would like to register for a class, please send me an email.
