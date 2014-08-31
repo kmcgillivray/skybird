@@ -1,6 +1,5 @@
 # Site settings
 title: Skybird Watercolor
-baseurl: /skybird
 
 # Build settings
 markdown: kramdown
