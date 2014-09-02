@@ -18,7 +18,7 @@ html {
 body {
 	font-size: 1em;
 	line-height: 1.35;
-	font-family: Helvetica, sans-serif;
+	font-family: Georgia, sans-serif;
   padding-top: 40px;
   margin-bottom: 80px;
   -webkit-font-smoothing: antialiased;
@@ -128,7 +128,16 @@ hr {
  * Intro
  */
 
+.jumbotron {
+  background-image: url(/img/cat-painting.jpg);
+  -webkit-background-size: cover;
+     -moz-background-size: cover;
+       -o-background-size: cover;
+          background-size: cover;
+  height: 600px;
+}
 .intro {
   text-align: center;
   margin-bottom: 50px;
+  background-color: #E7E7E7;
 }

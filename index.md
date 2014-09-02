@@ -1,12 +1,6 @@
 ---
-layout: default
+layout: home
 ---
-
-<div class="intro">
-  <h1>Discover the spirit and story of watercolor</h1>
-  <p>A watercolor studio in Green Bay, WI.</p>
-  <a class="btn" href="{{ site.baseurl }}/#register-and-contact">Register for a class</a>
-</div>
 
 ## About the course
 
@@ -21,8 +15,8 @@ A short biography and history of the studio.
 Fall 2014 classes start September 15th and end December 20th (10 weeks).
 
 ### Monday Classes  
-Morning class: 9:00—11:30 (**This class is full**)  
-Afternoon class: 12:30—3:00  
+Morning class: 9:00—11:30  
+Afternoon class: 12:30—3:00 **(This class is full)**  
 [Allouez Community Center](https://goo.gl/maps/7ic6k)
 
 ### Thursday Classes
