@@ -47,9 +47,11 @@ img {
   padding-top: 62px;
 }
 .center-column {
-  max-width: 600px;
+  max-width: 630px;
   margin-right: auto;
   margin-left: auto;
+  padding-right: 15px;
+  padding-left: 15px;
 }
 
 /*
@@ -151,4 +153,24 @@ hr {
 .carousel {
   margin-bottom: 20px;
   background-color: #CCBBB0;
+}
+
+/*
+ * Class Info
+ */
+
+.class-info {
+  background-color: #E7E7E7;
+  padding-bottom: 50px;
+  padding-top: 25px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+@media (min-width: 768px) {
+  .class-info {
+    margin-left: -50px;
+    margin-right: -50px;
+    padding-left: 50px;
+    padding-right: 50px;
+  }
 }
