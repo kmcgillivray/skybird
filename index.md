@@ -12,7 +12,7 @@ layout: home
   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec faucibus placerat massa vitae euismod. Cras sit amet orci quis urna finibus imperdiet sed sed tortor. Fusce venenatis justo at sollicitudin maximus. Duis at hendrerit massa. Phasellus posuere vel velit sed dictum. Curabitur a purus eget leo gravida commodo a sed ligula. Nulla facilisi.</p>
 </div>
 
-<div class="class-info">
+<div class="class-info" id="class-info">
 <div class="center-column">
 <h2 id="class_information">Class information</h2>
 

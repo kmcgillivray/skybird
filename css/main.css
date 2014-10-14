@@ -39,7 +39,7 @@ img {
   padding-top: 20px;
   padding-bottom: 20px;
   background-color: #FFF;
-  max-width: 960px;
+  max-width: 800px;
   margin-right: auto;
   margin-left: auto;
 }
@@ -123,14 +123,21 @@ hr {
  * Masthead
  */
 
-.masthead {
+.navbar-default {
   padding-top: 15px;
-  padding-left: 15px;
   padding-bottom: 15px;
-  position: fixed;
   background-color: rgba(245,245,245,.9);
-  width: 100%;
-  z-index: 1000;
+  border-bottom: 0px;
+}
+.navbar-default a {
+  text-decoration: none;
+}
+.navbar-nav li a {
+  padding-top: 5px;
+  padding-bottom: 0px;
+}
+.navbar-default ul li {
+  margin-bottom: 0px;
 }
 
 /*
@@ -147,12 +154,12 @@ hr {
   font-size: 1.25rem;
 }
 .intro {
-  padding-top: 60px;
-  padding-bottom: 60px;
+  padding-top: 15px;
+  padding-bottom: 15px;
 }
 .carousel {
   margin-bottom: 20px;
-  background-color: #CCBBB0;
+  background-color: #A8ADBF;
 }
 
 /*
